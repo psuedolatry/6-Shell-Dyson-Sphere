@@ -7,7 +7,7 @@ Star Lumination: .992
 
 Total Gen: 27.2GW
 
-**Adjusted Aprx Gen for a Lumination Multiplier of 1: 27.42
+**Adjusted Aprx Gen for a Lumination Multiplier of 1: 27.42GW
 
     Shell 1 (No Sails) 4km: 1.95GW **1.97GW
 
